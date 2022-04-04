@@ -12,7 +12,7 @@
 <br>
 Link deploy vercel:
 
-https://2b16-entrega-kenziehub.vercel.app/
+https://kenziehub-fawn.vercel.app/
 
 # Instalação
 
@@ -66,7 +66,7 @@ yarn start
 
 <p>Ou podemos utilizar o link do deploy Vercel a seguir:</p>
 
-https://2b16-entrega-kenziehub.vercel.app/
+https://kenziehub-fawn.vercel.app/
 
 
 # Termos de uso
